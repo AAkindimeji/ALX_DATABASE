@@ -1,2 +1,2 @@
 -- Lists of all Tables
-USE `mysql`; SELECT *
+USE `mysql`; SHOW TABLES;
